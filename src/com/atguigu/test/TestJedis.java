@@ -8,6 +8,7 @@ public class TestJedis {
 	  String ping = jedis.ping();
 	  System.out.println(ping);
 	  	  System.out.println(ping);
+	   System.out.println(ping);
 
 	   
   }
