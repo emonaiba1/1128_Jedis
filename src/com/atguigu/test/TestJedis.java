@@ -7,6 +7,8 @@ public class TestJedis {
 	  Jedis jedis = new Jedis("192.168.0.143", 6379, 20000);
 	  String ping = jedis.ping();
 	  System.out.println(ping);
+	  	  System.out.println(ping);
+
 	   
   }
 }
